@@ -9,7 +9,7 @@
   <a href="https://wa.me/6289519701024" target="_blank">
    <img src="https://img.shields.io/badge/Whatsapp-%23000000.svg?style=for-the-badge&logo=whatsapp&logoColor=white" height="28"/>
   </a>
-  <a href="tiktok.com/@dwi.prima2" target="_blank">
+  <a href="https://tiktok.com/@dwi.prima2" target="_blank">Kunjungi Profil
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" height="28"/>
   </a>
   <a href="https://mastodon.social/@Prima" target="_blank">
