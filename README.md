@@ -44,14 +44,13 @@ I'm currently focused on improving my programming skills, exploring web developm
 ---
 
 ## GitHub Analytics
-
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrimaCyu&show_icons=true&theme=transparent&hide_border=true&title_color=06B6D4&icon_color=06B6D4&text_color=94A3B8&rank_icon=github" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PrimaCyu&theme=transparent&hide_border=true&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrimaCyu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrimaCyu&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrimaCyu&layout=compact&theme=transparent&hide_border=true&title_color=06B6D4&text_color=94A3B8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrimaCyu&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="70%" />
 </p>
 
 ---
